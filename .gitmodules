@@ -1,0 +1,3 @@
+[submodule "logrus"]
+	path = logrus
+	url = http://github.com/sirupsen/logrus
